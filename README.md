@@ -1,6 +1,6 @@
 # Project: OCR (Optical Character Recognition) 
 
-![image](figs/intro.png)
+![image](figs/Tesseract_OCR_logo_(Google).png)
 
 Attention!!!!!!! Our detection file is in the doc and our correction file is in main menu.!!!!!!!!!!!!!!
 
