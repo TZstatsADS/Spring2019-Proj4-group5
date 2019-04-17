@@ -37,10 +37,8 @@ Term: Spring 2019
 
 + Team 3
 + Team members
-According
-	Yiwei Li:       1) according to detection paper write error detection python code , including feature generation,     specifically, the feature is generated based on the rules which can judge garbage. 
-	                2) Apply SVC model on the train data to construct Classifier model and test the model. 
-	                3) Construct performance measurement to get word precision and recall of three different correction methods, and character precision and recall of three different correction methods	
+
+	Yiwei Li: According to detection paper write error detection python code and wrtite performance measure part.	
 	
 	
 	Shengwei Huang: 1) Write the function to extract the correpsonding features in the detection part.
@@ -50,7 +48,7 @@ According
 			
 			
         
-	+ team member 4
+	+ Liwei Zhang: 1) By understanding the correction paper, wrote the p(l|c)/p(r|c) function as a part that's used to compute the final result. 2) Worked on the final function, especially for p(c) and p(tr) parts, by handling out of index problems and storing results.
 	+ team member 5
 
 + Project summary: In this project, we created an OCR post-processing procedure to enhance Tesseract OCR output. 
