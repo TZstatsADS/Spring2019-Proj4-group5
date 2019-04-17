@@ -15,7 +15,7 @@ For the detection part, we firstly constructed features that we can use to defin
 We extract these features from our training text data and applied the rules mentioned in the following of the paper to assign values to theses features. Finally, we construct the dataframe of these features and use SVM to train our model. 
 Our result is quite pleasant: 
 
-
+![image](figs/de.jpeg)
 
 Term: Spring 2019
 
