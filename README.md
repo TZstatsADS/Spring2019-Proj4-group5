@@ -28,7 +28,7 @@ Our result is quite pleasant:
 
 For the correction part, we realize the paper C4. We mainly use 3 different ways to calculate the probability of the potential correct words. 
 
-![image](figs/cor.jpeg)
+![image](figs/cor.jpg)
 
 
 
