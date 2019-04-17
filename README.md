@@ -37,15 +37,17 @@ Term: Spring 2019
 
 + Team 3
 + Team members
-	+
+
 	Yiwei Li: According to detection paper write error detection python code and wrtite performance measure part.	
+	
 	
 	Shengwei Huang: 1) Write the function to extract the correpsonding features in the detection part.
 	                2) Construct the features and apply the garbadge words rules to the detection part. Then, apply the SVM model 
 			     to train our training dataset and test dataset. Finally, to use our model to predict the test dataset and                                  read our output into excel.   
 	                3) Work on the correction part specifically in GT part to handle with empty set probelms, left/right words                                    probability and summarize the all results. 
-        + team member 3
-	
+			
+			
+        
 	+ team member 4
 	+ team member 5
 
