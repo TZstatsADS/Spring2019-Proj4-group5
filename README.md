@@ -41,7 +41,9 @@ For the correction part, we realize the paper C4. We mainly use 3 different ways
 Term: Spring 2019
 
 + Team 3
-+ Team members
++ Shaofu Wang : 1) according to correction paper4 write prior probability python code for three methods, mle, ele and gt.
+              2) design get_candidate function for four methods deletion, insertion, substitution and revesal of typo.
+       3) debug for correction part.
 
 	Yiwei Li: 1) according to detection paper write error detection python code , including feature generation, specifically, the feature is generated based on the rules which can judge garbage.
 	          2) Apply SVC model on the train data to construct Classifier model and test the model. 
