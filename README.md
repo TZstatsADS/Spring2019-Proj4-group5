@@ -25,6 +25,13 @@ Our result is quite pleasant:
 
 ![image](figs/de.jpeg)
 
+
+For the correction part, we realize the paper C4. We mainly use 3 different ways to calculate the probability of the potential correct words. 
+
+
+
+
+
 Term: Spring 2019
 
 + Team 3
