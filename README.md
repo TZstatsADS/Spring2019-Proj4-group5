@@ -2,6 +2,11 @@
 
 ![image](figs/intro.png)
 
+Attention!!!!!!! Our detection file is in the doc and our correction file is in main menu.!!!!!!!!!!!!!!
+
+
+
+
 ### [Full Project Description](doc/project4_desc.md)
 Our team is trying to realize the algorithm from paper D3 + C4. 
 For the detection part, we firstly constructed features that we can use to define a "garbadge" word. For instance: 
