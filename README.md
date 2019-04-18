@@ -57,7 +57,7 @@ Term: Spring 2019
 			
         
 	+ Liwei Zhang: 1) By understanding the correction paper, wrote the p(l|c)/p(r|c) function as a part that's used to compute the final result. 2) Worked on the final function, especially for p(c) and p(tr) parts, by handling out of index problems and storing results.
-	+ team member 5
+	+ Xishi Chen: 1) wrote part of functions for features extraction in detection part 2) apply SVM model to data in detection 3) wrote conditional char matrix and probability p(t|c) in correction. 4) debug for correction part, like deal with out of index problem and meaningless return in candidate choosing
 
 + Project summary: In this project, we created an OCR post-processing procedure to enhance Tesseract OCR output. 
 	
